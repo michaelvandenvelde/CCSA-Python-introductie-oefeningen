@@ -7,4 +7,3 @@ uitgegeven = float(gekochte_stuks * kostprijs_stuk)
 flyer_mijlen = int(mijlen * (gekochte_stuks // barcodes_nodig))
 
 print(f"Phillips spendeerde ${uitgegeven} voor {flyer_mijlen} frequent flyer mijlen.")
-
